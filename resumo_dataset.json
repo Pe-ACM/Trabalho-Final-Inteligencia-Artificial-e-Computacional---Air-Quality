@@ -1,0 +1,19 @@
+{
+  "raw_rows": 9357,
+  "model_rows": 7715,
+  "train_rows": 6172,
+  "test_rows": 1543,
+  "date_min": "2004-03-10 18:00:00",
+  "date_max": "2005-04-04 14:00:00",
+  "class_counts_full": {
+    "0": 7329,
+    "1": 386
+  },
+  "class_counts_test": {
+    "0": 1307,
+    "1": 236
+  },
+  "split_datetime": "2005-01-28 11:00:00",
+  "most_missing": "NMHC(GT)",
+  "most_missing_count": 8443
+}

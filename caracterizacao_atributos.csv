@@ -1,0 +1,16 @@
+Atributo,Tipo,Intervalo/valores válidos,Faltantes (-200),Percentual_faltante
+Date,data,10/03/2004 a 04/04/2005,0,0.0
+Time,hora,18.00.00 a 14.00.00,0,0.0
+CO(GT),numérico contínuo,0.1 a 11.9,1683,0.17986534145559474
+PT08.S1(CO),numérico contínuo,647 a 2040,366,0.0391151009939083
+NMHC(GT),numérico contínuo,7 a 1189,8443,0.9023191193758683
+C6H6(GT),numérico contínuo,0.1 a 63.7,366,0.0391151009939083
+PT08.S2(NMHC),numérico contínuo,383 a 2214,366,0.0391151009939083
+NOx(GT),numérico contínuo,2 a 1479,1639,0.17516297958747462
+PT08.S3(NOx),numérico contínuo,322 a 2683,366,0.0391151009939083
+NO2(GT),numérico contínuo,2 a 340,1642,0.1754835951693919
+PT08.S4(NO2),numérico contínuo,551 a 2775,366,0.0391151009939083
+PT08.S5(O3),numérico contínuo,221 a 2523,366,0.0391151009939083
+T,numérico contínuo,-1.9 a 44.6,366,0.0391151009939083
+RH,numérico contínuo,9.2 a 88.7,366,0.0391151009939083
+AH,numérico contínuo,0.1847 a 2.231,366,0.0391151009939083
